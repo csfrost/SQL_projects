@@ -1,0 +1,53 @@
+# Database files
+*.sql.bak
+*.dump
+*.db
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Database credentials
+config/database.yml
+credentials.json
+*.pem
+*.key
+
+# Query results and exports
+exports/
+output/
+results/
+*.csv
+*.xlsx
+
+# Notes and drafts
+notes/
+drafts/
+TODO.md
