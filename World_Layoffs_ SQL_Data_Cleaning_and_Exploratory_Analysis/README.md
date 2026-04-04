@@ -2,11 +2,11 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)](https://www.mysql.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-A structured SQL project performing end-to-end data cleaning and exploratory data analysis (EDA) on a global tech layoffs dataset spanning March 2020 to March 2023.
+A structured SQL project performing end-to-end data cleaning and exploratory data analysis (EDA) on a global corporate layoffs dataset spanning March 2020 to March 2023.
 
 ## Project Overview
 
-This project takes a raw dataset of worldwide company layoffs and transforms it into a clean, analysis-ready table using MySQL. Following the cleaning phase, a series of EDA queries uncover trends in layoffs by company, industry, country, and time period — covering the Covid-19 pandemic era through to the 2022–2023 tech downturn.
+This project takes a raw dataset of worldwide company layoffs and transforms it into a clean, analysis-ready table using MySQL. Following the cleaning phase, a series of EDA queries uncover trends in layoffs by company, industry, country, and time period — covering the Covid-19 pandemic era through to the 2022–2023 corporate downturn.
 
 **Key Findings:**
 - **Survey Period:** March 2020 – March 2023
